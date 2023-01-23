@@ -40,6 +40,7 @@ namespace NapadNaZemljo
             AnimirajSovraznika(sovraznik, 0, (int) (IgralniProstor.ActualWidth - 100), "(Canvas.Left)");
             int visina = (int) (IgralniProstor.ActualHeight - 100);
             AnimirajSovraznika(sovraznik, r.Next(visina), r.Next(visina), "(Canvas.Top)");
+            IgralniProstor.Children.Add(sovraznik);
         }
 
         private void AnimirajSovraznika(ContentControl sovraznik, int v1, double v2, string v3)
