@@ -10,7 +10,7 @@ namespace VajaIzpis
     {
         static void Main(string[] args)
         {
-            
+            /*
             int a = 20;
             double b = -13.6667;
             int c = 17;
@@ -22,9 +22,8 @@ namespace VajaIzpis
             Console.WriteLine("{0, 20:f2}", d);
             Console.WriteLine("{0, 22:f2}", e);
             Console.ReadLine();
-            
+            */
 
-            
 
         }
     }
