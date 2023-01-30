@@ -24,7 +24,7 @@ namespace VajaIzpis
             Console.ReadLine();
             */
 
-
+            
         }
     }
 }
