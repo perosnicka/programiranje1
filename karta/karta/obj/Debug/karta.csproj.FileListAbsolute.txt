@@ -1,0 +1,8 @@
+D:\prog1PG\karta\karta\bin\Debug\karta.exe.config
+D:\prog1PG\karta\karta\bin\Debug\karta.exe
+D:\prog1PG\karta\karta\bin\Debug\karta.pdb
+D:\prog1PG\karta\karta\obj\Debug\karta.csproj.AssemblyReference.cache
+D:\prog1PG\karta\karta\obj\Debug\karta.csproj.SuggestedBindingRedirects.cache
+D:\prog1PG\karta\karta\obj\Debug\karta.csproj.CoreCompileInputs.cache
+D:\prog1PG\karta\karta\obj\Debug\karta.exe
+D:\prog1PG\karta\karta\obj\Debug\karta.pdb
