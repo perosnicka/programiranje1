@@ -1,0 +1,8 @@
+D:\prog1PG\VajaIFinSWITCH\VajaIFinSWITCH\bin\Debug\VajaIFinSWITCH.exe.config
+D:\prog1PG\VajaIFinSWITCH\VajaIFinSWITCH\bin\Debug\VajaIFinSWITCH.exe
+D:\prog1PG\VajaIFinSWITCH\VajaIFinSWITCH\bin\Debug\VajaIFinSWITCH.pdb
+D:\prog1PG\VajaIFinSWITCH\VajaIFinSWITCH\obj\Debug\VajaIFinSWITCH.csproj.AssemblyReference.cache
+D:\prog1PG\VajaIFinSWITCH\VajaIFinSWITCH\obj\Debug\VajaIFinSWITCH.csproj.SuggestedBindingRedirects.cache
+D:\prog1PG\VajaIFinSWITCH\VajaIFinSWITCH\obj\Debug\VajaIFinSWITCH.csproj.CoreCompileInputs.cache
+D:\prog1PG\VajaIFinSWITCH\VajaIFinSWITCH\obj\Debug\VajaIFinSWITCH.exe
+D:\prog1PG\VajaIFinSWITCH\VajaIFinSWITCH\obj\Debug\VajaIFinSWITCH.pdb

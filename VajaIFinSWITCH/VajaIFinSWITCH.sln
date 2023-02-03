@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VajaIFinSWITCH", "VajaIFinSWITCH\VajaIFinSWITCH.csproj", "{7849599B-DF50-454D-A50B-572DE6DA0261}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7849599B-DF50-454D-A50B-572DE6DA0261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7849599B-DF50-454D-A50B-572DE6DA0261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7849599B-DF50-454D-A50B-572DE6DA0261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7849599B-DF50-454D-A50B-572DE6DA0261}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2C6D3E9-F7D6-463C-BD9B-F04A4AB18833}
+	EndGlobalSection
+EndGlobal
