@@ -10,6 +10,11 @@ namespace VajaTočke
     {
         static void Main(string[] args)
         {
+            Točka t1 = new Točka(1.0, 1.0);
+            t1.Izpis();
+            Točka t2 = new Točka(1.0, 180);
+            t2.Izpis();
+            Console.ReadLine();
         }
     }
 }
