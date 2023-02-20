@@ -1,0 +1,8 @@
+D:\prog1PG\Palčke\Palčke\bin\Debug\Palčke.exe.config
+D:\prog1PG\Palčke\Palčke\bin\Debug\Palčke.exe
+D:\prog1PG\Palčke\Palčke\bin\Debug\Palčke.pdb
+D:\prog1PG\Palčke\Palčke\obj\Debug\Palčke.csproj.AssemblyReference.cache
+D:\prog1PG\Palčke\Palčke\obj\Debug\Palčke.csproj.SuggestedBindingRedirects.cache
+D:\prog1PG\Palčke\Palčke\obj\Debug\Palčke.csproj.CoreCompileInputs.cache
+D:\prog1PG\Palčke\Palčke\obj\Debug\Palčke.exe
+D:\prog1PG\Palčke\Palčke\obj\Debug\Palčke.pdb
