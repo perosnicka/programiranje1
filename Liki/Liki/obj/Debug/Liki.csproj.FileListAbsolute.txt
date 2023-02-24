@@ -1,0 +1,8 @@
+D:\prog1PG\Liki\Liki\bin\Debug\Liki.exe.config
+D:\prog1PG\Liki\Liki\bin\Debug\Liki.exe
+D:\prog1PG\Liki\Liki\bin\Debug\Liki.pdb
+D:\prog1PG\Liki\Liki\obj\Debug\Liki.csproj.AssemblyReference.cache
+D:\prog1PG\Liki\Liki\obj\Debug\Liki.csproj.SuggestedBindingRedirects.cache
+D:\prog1PG\Liki\Liki\obj\Debug\Liki.csproj.CoreCompileInputs.cache
+D:\prog1PG\Liki\Liki\obj\Debug\Liki.exe
+D:\prog1PG\Liki\Liki\obj\Debug\Liki.pdb
