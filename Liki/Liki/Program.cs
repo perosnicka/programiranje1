@@ -17,6 +17,12 @@ namespace Liki
             Console.WriteLine("Stranica a " + p.StranicaA());
             Console.WriteLine("Stranica b " + p.StranicaB());
             Console.WriteLine("Plošina " + p.Ploscina());
+
+            Kvader kv = new Kvader(0, 1, 1, 0, 1);
+            Console.WriteLine("Prostornina kvadra je: "+kv.Prostornina());
+            Console.WriteLine("Površina kvadra je:    "+kv.Povrsina());
+
+
             Console.ReadLine();
         }
     }
