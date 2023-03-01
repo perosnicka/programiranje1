@@ -1,0 +1,8 @@
+D:\prog1PG\TabeleVaja\TabeleVaja\bin\Debug\TabeleVaja.exe.config
+D:\prog1PG\TabeleVaja\TabeleVaja\bin\Debug\TabeleVaja.exe
+D:\prog1PG\TabeleVaja\TabeleVaja\bin\Debug\TabeleVaja.pdb
+D:\prog1PG\TabeleVaja\TabeleVaja\obj\Debug\TabeleVaja.csproj.AssemblyReference.cache
+D:\prog1PG\TabeleVaja\TabeleVaja\obj\Debug\TabeleVaja.csproj.SuggestedBindingRedirects.cache
+D:\prog1PG\TabeleVaja\TabeleVaja\obj\Debug\TabeleVaja.csproj.CoreCompileInputs.cache
+D:\prog1PG\TabeleVaja\TabeleVaja\obj\Debug\TabeleVaja.exe
+D:\prog1PG\TabeleVaja\TabeleVaja\obj\Debug\TabeleVaja.pdb
