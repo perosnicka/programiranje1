@@ -1,0 +1,11 @@
+D:\prog1PG\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+D:\prog1PG\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+D:\prog1PG\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+D:\prog1PG\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+D:\prog1PG\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.SuggestedBindingRedirects.cache
+D:\prog1PG\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+D:\prog1PG\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+D:\prog1PG\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+D:\prog1PG\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+D:\prog1PG\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+D:\prog1PG\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb

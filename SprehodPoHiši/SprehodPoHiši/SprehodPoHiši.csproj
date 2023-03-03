@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{010BB486-B352-4D31-9E16-54C8BB5681C6}</ProjectGuid>
+    <ProjectGuid>{3FBCB2EA-CD56-4164-8C44-24AC910E64A2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Trgovina</RootNamespace>
-    <AssemblyName>Trgovina</AssemblyName>
+    <RootNamespace>SprehodPoHiši</RootNamespace>
+    <AssemblyName>SprehodPoHiši</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,12 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AbstractProduct.cs" />
-    <Compile Include="Igrace.cs" />
-    <Compile Include="IProduct.cs" />
-    <Compile Include="Knjiga.cs" />
+    <Compile Include="Lokacija.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Soba.cs" />
+    <Compile Include="Zunanji.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
