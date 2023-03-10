@@ -1,0 +1,6 @@
+D:\prog1PG\WpfApp5\WpfApp5\obj\Debug\WpfApp5.csproj.AssemblyReference.cache
+D:\prog1PG\WpfApp5\WpfApp5\obj\Debug\WpfApp5.csproj.SuggestedBindingRedirects.cache
+D:\prog1PG\WpfApp5\WpfApp5\obj\Debug\MainWindow.g.cs
+D:\prog1PG\WpfApp5\WpfApp5\obj\Debug\App.g.cs
+D:\prog1PG\WpfApp5\WpfApp5\obj\Debug\WpfApp5_MarkupCompile.cache
+D:\prog1PG\WpfApp5\WpfApp5\obj\Debug\WpfApp5_MarkupCompile.lref

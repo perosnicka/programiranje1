@@ -1,0 +1,8 @@
+D:\prog1PG\Nogomet\Nogomet\bin\Debug\Nogomet.exe.config
+D:\prog1PG\Nogomet\Nogomet\bin\Debug\Nogomet.exe
+D:\prog1PG\Nogomet\Nogomet\bin\Debug\Nogomet.pdb
+D:\prog1PG\Nogomet\Nogomet\obj\Debug\Nogomet.csproj.AssemblyReference.cache
+D:\prog1PG\Nogomet\Nogomet\obj\Debug\Nogomet.csproj.SuggestedBindingRedirects.cache
+D:\prog1PG\Nogomet\Nogomet\obj\Debug\Nogomet.csproj.CoreCompileInputs.cache
+D:\prog1PG\Nogomet\Nogomet\obj\Debug\Nogomet.exe
+D:\prog1PG\Nogomet\Nogomet\obj\Debug\Nogomet.pdb
