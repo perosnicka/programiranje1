@@ -1,0 +1,11 @@
+D:\prog1PG\4VVrsto\4VVrsto\bin\Debug\4VVrsto.exe.config
+D:\prog1PG\4VVrsto\4VVrsto\bin\Debug\4VVrsto.exe
+D:\prog1PG\4VVrsto\4VVrsto\bin\Debug\4VVrsto.pdb
+D:\prog1PG\4VVrsto\4VVrsto\obj\Debug\4VVrsto.csproj.AssemblyReference.cache
+D:\prog1PG\4VVrsto\4VVrsto\obj\Debug\4VVrsto.csproj.SuggestedBindingRedirects.cache
+D:\prog1PG\4VVrsto\4VVrsto\obj\Debug\_4VVrsto.Form1.resources
+D:\prog1PG\4VVrsto\4VVrsto\obj\Debug\_4VVrsto.Properties.Resources.resources
+D:\prog1PG\4VVrsto\4VVrsto\obj\Debug\4VVrsto.csproj.GenerateResource.cache
+D:\prog1PG\4VVrsto\4VVrsto\obj\Debug\4VVrsto.csproj.CoreCompileInputs.cache
+D:\prog1PG\4VVrsto\4VVrsto\obj\Debug\4VVrsto.exe
+D:\prog1PG\4VVrsto\4VVrsto\obj\Debug\4VVrsto.pdb
