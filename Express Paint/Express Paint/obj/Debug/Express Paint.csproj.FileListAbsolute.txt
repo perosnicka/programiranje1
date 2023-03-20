@@ -1,0 +1,11 @@
+D:\prog1PG\Express Paint\Express Paint\bin\Debug\Express Paint.exe.config
+D:\prog1PG\Express Paint\Express Paint\bin\Debug\Express Paint.exe
+D:\prog1PG\Express Paint\Express Paint\bin\Debug\Express Paint.pdb
+D:\prog1PG\Express Paint\Express Paint\obj\Debug\Express Paint.csproj.AssemblyReference.cache
+D:\prog1PG\Express Paint\Express Paint\obj\Debug\Express Paint.csproj.SuggestedBindingRedirects.cache
+D:\prog1PG\Express Paint\Express Paint\obj\Debug\Express_Paint.Form1.resources
+D:\prog1PG\Express Paint\Express Paint\obj\Debug\Express_Paint.Properties.Resources.resources
+D:\prog1PG\Express Paint\Express Paint\obj\Debug\Express Paint.csproj.GenerateResource.cache
+D:\prog1PG\Express Paint\Express Paint\obj\Debug\Express Paint.csproj.CoreCompileInputs.cache
+D:\prog1PG\Express Paint\Express Paint\obj\Debug\Express Paint.exe
+D:\prog1PG\Express Paint\Express Paint\obj\Debug\Express Paint.pdb
