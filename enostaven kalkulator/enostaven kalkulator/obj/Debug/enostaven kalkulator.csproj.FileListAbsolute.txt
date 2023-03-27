@@ -1,0 +1,16 @@
+D:\prog1PG\enostaven kalkulator\enostaven kalkulator\bin\Debug\enostaven kalkulator.exe.config
+D:\prog1PG\enostaven kalkulator\enostaven kalkulator\bin\Debug\enostaven kalkulator.exe
+D:\prog1PG\enostaven kalkulator\enostaven kalkulator\bin\Debug\enostaven kalkulator.pdb
+D:\prog1PG\enostaven kalkulator\enostaven kalkulator\obj\Debug\enostaven kalkulator.csproj.AssemblyReference.cache
+D:\prog1PG\enostaven kalkulator\enostaven kalkulator\obj\Debug\enostaven kalkulator.csproj.SuggestedBindingRedirects.cache
+D:\prog1PG\enostaven kalkulator\enostaven kalkulator\obj\Debug\MainWindow.g.cs
+D:\prog1PG\enostaven kalkulator\enostaven kalkulator\obj\Debug\App.g.cs
+D:\prog1PG\enostaven kalkulator\enostaven kalkulator\obj\Debug\enostaven kalkulator_MarkupCompile.cache
+D:\prog1PG\enostaven kalkulator\enostaven kalkulator\obj\Debug\enostaven kalkulator_MarkupCompile.lref
+D:\prog1PG\enostaven kalkulator\enostaven kalkulator\obj\Debug\MainWindow.baml
+D:\prog1PG\enostaven kalkulator\enostaven kalkulator\obj\Debug\enostaven kalkulator.g.resources
+D:\prog1PG\enostaven kalkulator\enostaven kalkulator\obj\Debug\enostaven_kalkulator.Properties.Resources.resources
+D:\prog1PG\enostaven kalkulator\enostaven kalkulator\obj\Debug\enostaven kalkulator.csproj.GenerateResource.cache
+D:\prog1PG\enostaven kalkulator\enostaven kalkulator\obj\Debug\enostaven kalkulator.csproj.CoreCompileInputs.cache
+D:\prog1PG\enostaven kalkulator\enostaven kalkulator\obj\Debug\enostaven kalkulator.exe
+D:\prog1PG\enostaven kalkulator\enostaven kalkulator\obj\Debug\enostaven kalkulator.pdb

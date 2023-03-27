@@ -1,0 +1,15 @@
+D:\prog1PG\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\ConsoleApp8.exe
+D:\prog1PG\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\ConsoleApp8.deps.json
+D:\prog1PG\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\ConsoleApp8.runtimeconfig.json
+D:\prog1PG\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\ConsoleApp8.dll
+D:\prog1PG\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\ConsoleApp8.pdb
+D:\prog1PG\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.csproj.AssemblyReference.cache
+D:\prog1PG\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.GeneratedMSBuildEditorConfig.editorconfig
+D:\prog1PG\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.AssemblyInfoInputs.cache
+D:\prog1PG\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.AssemblyInfo.cs
+D:\prog1PG\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.csproj.CoreCompileInputs.cache
+D:\prog1PG\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.dll
+D:\prog1PG\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\refint\ConsoleApp8.dll
+D:\prog1PG\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.pdb
+D:\prog1PG\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.genruntimeconfig.cache
+D:\prog1PG\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ref\ConsoleApp8.dll
